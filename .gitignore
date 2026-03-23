@@ -14,7 +14,7 @@ ipython_config.py
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
-__pycache__/
+__pycache__/s
 *.py[cod]
 *$py.class
 
